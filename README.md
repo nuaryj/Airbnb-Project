@@ -1,12 +1,12 @@
 # Data Analysis Projects
 
-Welcome to my repository of data analysis projects. This repository showcases my data analysis skills in different domains. Here you will find the details of the projects and the corresponding code.
+Welcome to my repository of data analysis projects. Here you will find the details of the projects and the corresponding code.
 
 ## Table of Contents
 
-* [Project 1: New York Airbnb Analysis]
-* [Project 2: Loan Prediction]
-* [Project 3: Correlation Analysis]
+* [Project 1: Airbnb Data Analysis](#airbnb-data-analysis)
+* [Project 2: Loan Prediction](#loan-prediction)
+* [Project 3: Correlation Analysis of Movies](#correlation-analysis-of-movies)
 
 ## New York Airbnb Analysis
 
