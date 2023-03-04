@@ -4,9 +4,9 @@ Welcome to my repository of data analysis projects. This repository showcases my
 
 ## Table of Contents
 
-* [Project 1: New York Airbnb Analysis](#airbnb.ipynb)
-* [Project 2: Loan Prediction](#Loan Prediction.ipynb)
-* [Project 3: Correlation Analysis](#Correlation Analysis)
+* [Project 1: New York Airbnb Analysis]
+* [Project 2: Loan Prediction]
+* [Project 3: Correlation Analysis]
 
 ## New York Airbnb Analysis
 
