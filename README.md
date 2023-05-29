@@ -10,7 +10,7 @@ Welcome to my repository of data analysis projects. Here you will find the detai
 * [Project 4: Correlation Analysis of Movies](#Correlation-Analysis)
 
 ## Theme Park Communication Pattern
-The display of Scott Jones’s soccer memorabilia in the Creighton Pavilion at DinoFun World was vandalized. A number of the items of memorabilia had been damaged or had been defaced with black spray paint. Spray paint had been used to write derogatory statements about Scott Jones on the display and throughout the Pavilion. Our goal is to figure out the patterns within the communication data to figure out when this crime occurred.The code is available in the `Communication pattern.html` file. 
+The display of Scott Jones’s soccer memorabilia in the Creighton Pavilion at DinoFun World was vandalized. A number of the items of memorabilia had been damaged or had been defaced with black spray paint. Spray paint had been used to write derogatory statements about Scott Jones on the display and throughout the Pavilion. Our goal is to figure out the patterns within the communication data to figure out when this crime occurred.The code is available in the `Communication pattern.pdf` file. 
 
 ## New York Airbnb Analysis
 
