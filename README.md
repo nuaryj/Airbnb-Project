@@ -4,9 +4,10 @@ Welcome to my repository of data analysis projects. Here you will find the detai
 
 ## Table of Contents
 
-* [Project 1: Airbnb Data Analysis](#airbnb-data-analysis)
-* [Project 2: Loan Prediction](#loan-prediction)
-* [Project 3: Correlation Analysis of Movies](#correlation-analysis-of-movies)
+* [Project 1: Theme Park Communication Pattern] (#communication-pattern)
+* [Project 2: Airbnb Data Analysis](#airbnb-data-analysis)
+* [Project 3: Loan Prediction](#loan-prediction)
+* [Project 4: Correlation Analysis of Movies](#correlation-analysis-of-movies)
 
 ## New York Airbnb Analysis
 
