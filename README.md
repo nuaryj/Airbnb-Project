@@ -26,7 +26,7 @@ This project aims to find out how different features influence the model predict
 This project aims to explore the data and use correlation analysis to understand the relationships between the variables. We will also be using visualization tools such as scatter plots and heatmaps to help us interpret the results. The code is available in the `correlation-analysis-movies.ipynb` file.
 
 ## Infusion Center Analysis
-This project aims to analyze issues within the data set through preprocessing and finally calculate wait times between each step within the infusion center. The code is available in the `Infusion Center Analysis.ipynb` file. The PowerPoint that overviews the finding can be located in the 'Infusion Center Analysis.ppt' file.
+This project aims to analyze issues within the data set through preprocessing and finally calculate wait times between each step within the infusion center. The code is available in the `Infusion Center Analysis.ipynb` file. The PowerPoint that overviews the finding can be located in the 'Infusion Center Analysis.pdf' file.
 
 ## Conclusion
 
