@@ -4,6 +4,7 @@ Welcome to my repository of data analysis projects. Here you will find the detai
 
 ## Table of Contents
 
+* [SQL_Project: Various SQL project with multiple queries]
 * [Project 1: Theme Park Communication Pattern](#Theme-Park-Communication-Pattern)
 * [Project 2: Airbnb Data Analysis](#New-York-Airbnb-Analysis)
 * [Project 3: Loan Prediction](#loan-prediction)
